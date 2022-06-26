@@ -1,0 +1,87 @@
+  body {
+      background-color: #394A6D;
+  }
+
+  #form-body {
+      height: 50%;
+      max-height: 100%;
+      width: 30%;
+      margin: 10% auto;
+      padding: 10px;
+      border: 2px #394A6D;
+      border-radius: 10%;
+      position: relative;
+      text-transform: capitalize;
+      background-color: white;
+      box-shadow: 5px 5px 5px 5px rgba(128, 128, 128, 0.158);
+
+  }
+
+  #subhead {
+      width: 30%;
+      margin: 20px auto;
+  }
+
+  label {
+      padding: 5px 2px;
+      font-size: large;
+
+
+  }
+
+  p {
+      font-size: large;
+  }
+
+  input {
+      line-height: 20px;
+
+  }
+
+  form {
+
+      width: 80%;
+
+      margin: auto;
+
+
+  }
+
+  #head {
+      font-size: xx-large;
+      border-bottom: 2px solid #3C9D9B;
+      font-weight: bold;
+      margin: auto;
+      width: 50%;
+      color: #394A6D;
+  }
+
+  .lab-inp {
+
+
+      display: flex;
+      justify-content: space-between;
+
+  }
+
+  #but {
+      margin: auto;
+      width: 50%;
+      position: absolute;
+      left: 25%;
+      background-color: white;
+      height: 30px;
+      color: rgba(41, 211, 112, 0.737);
+      border-radius: 7%;
+      border: 2px rgba(41, 211, 112, 0.737) solid;
+  }
+
+  #but:hover {
+      background-color: rgba(41, 211, 112, 0.737);
+      color: white;
+  }
+
+  #result {
+      margin: auto;
+      width: 30%
+  }
